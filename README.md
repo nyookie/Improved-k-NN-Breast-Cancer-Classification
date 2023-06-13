@@ -26,16 +26,17 @@ There are two objectives that this research aims to achieve:
 
 # Dataset
 The datasets used in this research are obtained from UCI Machine Learning Repository derived from digitized images namely - Breast Cancer Wisconsin (Original) Data Set and Breast Cancer Wisconsin (Diagnostic) Data Set
-(i)	Breast Cancer Wisconsin (Original) Data Set - https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
-(ii)	Breast Cancer Wisconsin (Diagnostic) Data Set - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+
+* (i)	Breast Cancer Wisconsin (Original) Data Set - https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
+* (ii)	Breast Cancer Wisconsin (Diagnostic) Data Set - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
 
 # Methodology
-| Computational Methods                             | Category              | Implementation                                                                     |   |   |
-|---------------------------------------------------|-----------------------|------------------------------------------------------------------------------------|---|---|
-| k-Nearest Neighbors                               | Classifier            | Classify breast cancer datasets into benign or malignant classes.                  |   |   |
-| Elbow Method                                      | Hyperparameter Tuning | Obtain the optimal K-value (n_neighbors) for k-NN for optimal performance.         |   |   |
-| Grid Search-Based                                 |                       |                                                                                    |   |   |
-| Recursive Feature Selection with Cross Validation | Feature Selection     | Select significant features to overcome k-NN’s sensitivity to irrelevant features. |   |   |
-| 10-Fold Cross Validation                          | Cross Validation      | Data splitting to prevent underfitting or information loss.                        |   |   |
+| Computational Methods                             | Category              | Implementation                                                                     |
+|---------------------------------------------------|-----------------------|------------------------------------------------------------------------------------|
+| k-Nearest Neighbors                               | Classifier            | Classify breast cancer datasets into benign or malignant classes.                  |
+| Elbow Method                                      | Hyperparameter Tuning | Obtain the optimal K-value (n_neighbors) for k-NN for optimal performance.         |
+| Grid Search-Based                                 |                       |                                                                                    |
+| Recursive Feature Selection with Cross Validation | Feature Selection     | Select significant features to overcome k-NN’s sensitivity to irrelevant features. |
+| 10-Fold Cross Validation                          | Cross Validation      | Data splitting to prevent underfitting or information loss.                        |
 
