@@ -42,4 +42,18 @@ The datasets used in this research are obtained from UCI Machine Learning Reposi
 
 # Result & Documentation
 Presentation: https://docs.google.com/presentation/d/18U1aClxv7ikRwuacJi6YwnAR2gZtXW9x/edit?usp=sharing&ouid=115890530693649895427&rtpof=true&sd=true
+
 Documentation: https://drive.google.com/file/d/1dFLym6KG5rdlPk0hTq0Pwa7oDol91rc4/view?usp=sharing
+
+![Screenshot 2023-09-18 175816](https://github.com/nyookie/Improved-k-NN-Breast-Cancer-Classification/assets/87058822/670a8a70-d7dc-42cd-9a7b-c94235921241)
+
+# Discussion
+![Screenshot 2023-09-18 175834](https://github.com/nyookie/Improved-k-NN-Breast-Cancer-Classification/assets/87058822/078c491a-0bd5-463e-8ecf-ee97b747b420)
+![Screenshot 2023-09-18 175840](https://github.com/nyookie/Improved-k-NN-Breast-Cancer-Classification/assets/87058822/542ba8ba-f128-486f-b27d-d3a8889337a6)
+![Screenshot 2023-09-18 175853](https://github.com/nyookie/Improved-k-NN-Breast-Cancer-Classification/assets/87058822/e97f2239-c421-4cb6-ba36-6a42166729c9)
+![Screenshot 2023-09-18 175850](https://github.com/nyookie/Improved-k-NN-Breast-Cancer-Classification/assets/87058822/5e365889-60c4-48b1-9e65-227cc8d17b1a)
+![Screenshot 2023-09-18 175847](https://github.com/nyookie/Improved-k-NN-Breast-Cancer-Classification/assets/87058822/48597175-83a6-46be-a747-1cd761f21891)
+
+
+
+
