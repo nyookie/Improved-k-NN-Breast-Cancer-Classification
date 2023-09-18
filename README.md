@@ -40,3 +40,6 @@ The datasets used in this research are obtained from UCI Machine Learning Reposi
 | Recursive Feature Selection with Cross Validation | Feature Selection     | Select significant features to overcome k-NN’s sensitivity to irrelevant features. |
 | 10-Fold Cross Validation                          | Cross Validation      | Data splitting to prevent underfitting or information loss.                        |
 
+# Result & Documentation
+Presentation: https://docs.google.com/presentation/d/18U1aClxv7ikRwuacJi6YwnAR2gZtXW9x/edit?usp=sharing&ouid=115890530693649895427&rtpof=true&sd=true
+Documentation: https://drive.google.com/file/d/1dFLym6KG5rdlPk0hTq0Pwa7oDol91rc4/view?usp=sharing
